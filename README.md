@@ -1,6 +1,6 @@
 #ReadMe
 
-Allows user to generate a character for a role playing game. Uses MongoDB, Express, Vue, Node, HTML, CSS, and JavaScript.
+Full Stack application that allows user to generate a character for a role playing game. Uses MongoDB, Express, Vue, Node, HTML, CSS, and JavaScript.
 
 ## Project setup
 ```
